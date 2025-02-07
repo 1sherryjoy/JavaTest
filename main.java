@@ -14,6 +14,8 @@ class Main {
         } else {
             System.out.println("The number is zero.");
         }
+
+        // close scanner
         scanner.close();
     }
 }
